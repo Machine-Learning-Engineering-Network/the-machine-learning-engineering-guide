@@ -1,7 +1,5 @@
 The main job of a machine learning engineer is to work the end-to-end Machine Learning pipeline. There are four main stages in the Machine Learning pipeline
 
-![Machine Learning pipeline](./ml-pipeline.png)
-
 1. Data Sourcing
 2. Data Cleaning
 3. Training/Tuning the model
@@ -14,3 +12,5 @@ More detailed Machine Learning pipeline:
 4. Train and tune the model (Find the best type of model to use, i.e. XGBoost and do Hyperparameter tuning)
 5. Evaluate Model (How well did the model do, did it predict the right output)
 6. Deploy and monitor the model (Get the model and deploy it to production, the model is going to be used to predict something)
+
+![Machine Learning pipeline](./ml-pipeline.png)
