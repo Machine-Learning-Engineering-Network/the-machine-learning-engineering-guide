@@ -1,4 +1,7 @@
 The main job of a machine learning engineer is to work the end-to-end Machine Learning pipeline. There are four main stages in the Machine Learning pipeline
+
+![Machine Learning pipeline](./ml-pipeline.png)
+
 1. Data Sourcing
 2. Data Cleaning
 3. Training/Tuning the model

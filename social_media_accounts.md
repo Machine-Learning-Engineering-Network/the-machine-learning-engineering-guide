@@ -5,6 +5,7 @@
 - [3Blue1Brown](https://www.youtube.com/@3blue1brown/videos)
 - [Keith Galli](https://www.youtube.com/@KeithGalli)
 - [Data Professor](https://www.youtube.com/@DataProfessor/videos)
+- [Rob Mulla](https://www.youtube.com/@robmulla)
 
 # LinkedIn
 
