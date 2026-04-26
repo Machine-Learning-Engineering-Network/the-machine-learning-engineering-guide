@@ -13,4 +13,4 @@ More detailed Machine Learning pipeline:
 5. Evaluate Model (How well did the model do, did it predict the right output)
 6. Deploy and monitor the model (Get the model and deploy it to production, the model is going to be used to predict something)
 
-![Machine Learning pipeline](./ml-pipeline-1.png)
+![Machine Learning pipeline](./images/ml-pipeline-1.png)
